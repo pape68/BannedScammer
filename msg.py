@@ -1,4 +1,5 @@
-START = """
+START = """ #pezzo di helpers mancante
+
 👋🏻 Ciao {}!
 {} è il <b>miglior bot</b> per la <b>sicurezza</b> del tuo <b>gruppo</b>.
 
